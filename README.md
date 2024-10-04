@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi! I'm Rachael 👋
+
+## Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rtbs-dev&theme=catppuccin-frappe&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtbs-dev&layout=compact&theme=catppuccin-frappe&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **rtbs-dev/rtbs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
